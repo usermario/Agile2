@@ -1,4 +1,4 @@
 #!/usr/bin/python
 
-from time import ctime
-ctime()
+import datetime
+print datetime.datetime.now()
