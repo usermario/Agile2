@@ -2,4 +2,7 @@
 
 import datetime
 a= datetime.date.today()
-print ("The date is: ", a)
+print a
+
+import getpass b = getpass. getuser()
+print b
