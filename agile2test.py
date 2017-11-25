@@ -1,5 +1,5 @@
 #!/usr/bin/python
 
 import datetime
-a= datetime.datetime.now()
+a= datetime.date.now()
 print a
