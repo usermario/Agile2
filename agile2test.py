@@ -1,2 +1,5 @@
 #!/usr/bin/python
-print ("testing")
+
+import datetime
+now = datetime.datetime.now()
+datetime.time(now.hour, now.minute, now.second)
