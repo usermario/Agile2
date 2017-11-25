@@ -1,8 +1,9 @@
 #!/usr/bin/python
-
+import getpass
 import datetime
+
 a= datetime.date.today()
 print a
 
-import getpass b = getpass. getuser()
+b = getpass. getuser()
 print b
