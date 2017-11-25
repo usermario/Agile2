@@ -2,4 +2,4 @@
 
 import datetime
 a= datetime.date.today()
-print a
+print ("The date is: ", a)
