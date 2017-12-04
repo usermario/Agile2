@@ -8,4 +8,3 @@ print a
 b = getpass. getuser()
 print b
 
-print "hello world"
